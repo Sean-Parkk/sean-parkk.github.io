@@ -102,6 +102,7 @@ analytics:
   provider               :  "google-gtag"  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-155121791-1"
+    meaurement_id        : "G-J023QBRGW7"
     anonymize_ip         : # true, false (default)
 
 
